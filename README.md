@@ -1,0 +1,1 @@
+>**Исходные данные:** Для обучения моделей используется датасет [COM748: Deepfake Music Spectrograms](https://www.kaggle.com/datasets/sundarsrst/com748-deepfake-music-spectrograms/data), доступный на Kaggle.
